@@ -1,14 +1,14 @@
 # Trash Dataset and object detection
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-
-## Create my own trash dataset, and use Hexacopter to detect ( YOLOV3) Trash : 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3939059.svg)](https://doi.org/10.5281/zenodo.3939059)
+## Create my own trash dataset, and use Hexacopter to detect ( YOLOV3) Trash 
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result1.PNG)
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result3.PNG)
 
 ## Publications
 If you use this dataset and weight, please cite this : 
 ```
-license
+YU HSIEN LIAO. (2020, July 10). LiaoSteve/Trash-Dataset-and-object-detection: Trash-Dataset-and-object-detection (Version V1.0). Zenodo. http://doi.org/10.5281/zenodo.3939059
 ```
 ## Use keras-yolov3 to detect trash
 * Darknet : [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
