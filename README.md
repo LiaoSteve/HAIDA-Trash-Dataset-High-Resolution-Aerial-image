@@ -1,10 +1,12 @@
 # Trash Dataset and object detection
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-#### Create my own trash dataset, and use Hexacopter to detect Trash : 
+### Create my own trash dataset, and use Hexacopter to detect Trash : 
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result1.PNG)
-![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result2.PNG)
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result5.PNG)
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result3.PNG)
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result4.PNG)
+
 ### Publications
 If you use this dataset and weight, please cite this : 
 ```
@@ -20,11 +22,11 @@ license
 * data3 : [https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing](https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing)
 * data4 : [https://drive.google.com/file/d/15SbPi5rPkPRT5_xFgM2hbaHTlG5643Iu/view?usp=sharing](https://drive.google.com/file/d/15SbPi5rPkPRT5_xFgM2hbaHTlG5643Iu/view?usp=sharing)
 * data5 : [https://drive.google.com/file/d/1JMiUIWTFSI-Q3gQuj6iSGwegY45BlO9k/view?usp=sharing](https://drive.google.com/file/d/1JMiUIWTFSI-Q3gQuj6iSGwegY45BlO9k/view?usp=sharing)
-* data6 : []()
+* data6 : [https://drive.google.com/file/d/1EQe4M06Z82TfLUSnAnYN3Ch4zsMzrfK0/view?usp=sharing](https://drive.google.com/file/d/1EQe4M06Z82TfLUSnAnYN3Ch4zsMzrfK0/view?usp=sharing)
 ### My yolov3 weight
-* yolov3_weight.h5 : [https://drive.google.com/file/d/1QVF2AbILUvDLGh02Uwbuzf-lKC-3xqI2/view?usp=sharing](https://drive.google.com/file/d/1QVF2AbILUvDLGh02Uwbuzf-lKC-3xqI2/view?usp=sharing)
-* yolov3_anchor.txt : [https://drive.google.com/file/d/1Bhj-RkZXcQeslf5WL0elCRJbqe105UGe/view?usp=sharing](https://drive.google.com/file/d/1Bhj-RkZXcQeslf5WL0elCRJbqe105UGe/view?usp=sharing)
-* yolov3_classes.txt : [https://drive.google.com/file/d/1BRquvNZM-UmgSDbpIvtkQoG2hBt6eyvi/view?usp=sharing](https://drive.google.com/file/d/1BRquvNZM-UmgSDbpIvtkQoG2hBt6eyvi/view?usp=sharing)
+* yolov3_weight.h5 : [https://drive.google.com/file/d/1Ei0la7iLaa96YLXAdrW3bmb0iVzO3vMM/view?usp=sharing](https://drive.google.com/file/d/1Ei0la7iLaa96YLXAdrW3bmb0iVzO3vMM/view?usp=sharing)
+* yolov3_anchor.txt : [https://drive.google.com/file/d/14tEdJ0of5SK3RqaERh82KEcJ2YdwdD-e/view?usp=sharing](https://drive.google.com/file/d/14tEdJ0of5SK3RqaERh82KEcJ2YdwdD-e/view?usp=sharing)
+* yolov3_classes.txt : [https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing](https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing)
 ### Cite
 ```
 @article{yolov3,
