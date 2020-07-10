@@ -1,11 +1,9 @@
 # Trash Dataset and object detection
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-### Create my own trash dataset, and use Hexacopter to detect Trash : 
+### Create my own trash dataset, and use Hexacopter to detect ( YOLOV3) Trash : 
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result1.PNG)
-![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result5.PNG)
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result3.PNG)
-![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result4.PNG)
 
 ### Publications
 If you use this dataset and weight, please cite this : 
@@ -17,6 +15,9 @@ license
 * Fork from keras yolov3 : [https://github.com/qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
   
 ### My Trash Dataset
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result5.PNG)
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result4.PNG)
+
 * data1 : [https://drive.google.com/file/d/1wfMGTAlCebLDY-25SbLwnERzWzVoI7IH/view?usp=sharing](https://drive.google.com/file/d/1wfMGTAlCebLDY-25SbLwnERzWzVoI7IH/view?usp=sharing)
 * data2 : [https://drive.google.com/file/d/1Hde9D_51ciyAGupWdQxDbyYDV9wqHLqc/view?usp=sharing](https://drive.google.com/file/d/1Hde9D_51ciyAGupWdQxDbyYDV9wqHLqc/view?usp=sharing)
 * data3 : [https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing](https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing)
