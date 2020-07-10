@@ -2,9 +2,9 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 #### Create my own trash dataset, and use Hexacopter to detect Trash : 
-![images]()
-![images]()
-![images]()
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result1.PNG)
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result2.PNG)
+![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result3.PNG)
 ### Publications
 If you use this dataset and weight, please cite this : 
 ```
