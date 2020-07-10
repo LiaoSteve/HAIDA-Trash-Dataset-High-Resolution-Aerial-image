@@ -17,7 +17,7 @@ license
 ## My Trash Dataset
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result5.PNG)
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result4.PNG)
-
+* Label format : [Ezlabel - Creda](https://www.aicreda.com/)
 * data1 : [https://drive.google.com/file/d/1wfMGTAlCebLDY-25SbLwnERzWzVoI7IH/view?usp=sharing](https://drive.google.com/file/d/1wfMGTAlCebLDY-25SbLwnERzWzVoI7IH/view?usp=sharing)
 * data2 : [https://drive.google.com/file/d/1Hde9D_51ciyAGupWdQxDbyYDV9wqHLqc/view?usp=sharing](https://drive.google.com/file/d/1Hde9D_51ciyAGupWdQxDbyYDV9wqHLqc/view?usp=sharing)
 * data3 : [https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing](https://drive.google.com/file/d/143oaiRhyheRHvU9Y0jcXT_eF0BaGaqap/view?usp=sharing)
