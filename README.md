@@ -28,6 +28,8 @@ YU HSIEN LIAO. (2020, July 10). LiaoSteve/Trash-Dataset-and-object-detection: Tr
 * yolov3_weight.h5 : [https://drive.google.com/file/d/1Ei0la7iLaa96YLXAdrW3bmb0iVzO3vMM/view?usp=sharing](https://drive.google.com/file/d/1Ei0la7iLaa96YLXAdrW3bmb0iVzO3vMM/view?usp=sharing)
 * yolov3_anchor.txt : [https://drive.google.com/file/d/14tEdJ0of5SK3RqaERh82KEcJ2YdwdD-e/view?usp=sharing](https://drive.google.com/file/d/14tEdJ0of5SK3RqaERh82KEcJ2YdwdD-e/view?usp=sharing)
 * yolov3_classes.txt : [https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing](https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing)
+## My copter study
+* [https://github.com/LiaoSteve/Drone-GCS-and-AI/edit/django_app/README.md](https://github.com/LiaoSteve/Drone-GCS-and-AI/edit/django_app/README.md)
 ## Cite
 ```
 @article{yolov3,
