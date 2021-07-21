@@ -1,7 +1,6 @@
-# HAIDA Trash Dataset and Object Detection
+# HAIDA Trash Dataset - High Resolution Aerial image
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-## HAIDA Trash Dataset - High Resolution Aerial image
 * HAIDA dataset Contributors
 [LiaoSteve](https://github.com/LiaoSteve)(廖育賢), [ChiangMark](https://github.com/ChiangMark)(江昶勳), 張仲崴, 吳御齊
 
