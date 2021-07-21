@@ -9,7 +9,7 @@
 
 * HAIDA2 : [https://drive.google.com/file/d/12-wJ_Pi3YRQLfpAUQSgTHpdKzfJ2Xa_N/view?usp=sharing](https://drive.google.com/file/d/12-wJ_Pi3YRQLfpAUQSgTHpdKzfJ2Xa_N/view?usp=sharing)
 
-## Publications
+## Cite
 If you use HAIDA trash dataset, please cite :
 ```
 Y. H. Liao, "Application of Unmanned Aerial Vehicles for Marine Trash Detection and Real-Time Monitoring System," Master Thesis, Department of Communications, Navigation and Control Engineering, NTOU, ROC, 2021.
