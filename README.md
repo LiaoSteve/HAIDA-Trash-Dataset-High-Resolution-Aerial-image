@@ -13,6 +13,6 @@
 ## Publications
 If you use HAIDA trash dataset, please cite :
 ```
-coming soon
+Y. H. Liao, "Application of Unmanned Aerial Vehicles for Marine Trash Detection and Real-Time Monitoring System, NTOU, ROC, 2021 
 ```
 
