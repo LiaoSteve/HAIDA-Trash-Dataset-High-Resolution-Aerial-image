@@ -9,6 +9,7 @@
 
 * HAIDA2 : [https://drive.google.com/file/d/12-wJ_Pi3YRQLfpAUQSgTHpdKzfJ2Xa_N/view?usp=sharing](https://drive.google.com/file/d/12-wJ_Pi3YRQLfpAUQSgTHpdKzfJ2Xa_N/view?usp=sharing)
 
+* our old trash dataset: https://github.com/LiaoSteve/HAIDA-Trash-Dataset-High-Resolution-Aerial-image/tree/master 
 ## Cite
 If you use HAIDA trash dataset, please cite :
 ```
