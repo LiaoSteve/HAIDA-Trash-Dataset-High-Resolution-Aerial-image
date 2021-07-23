@@ -5,7 +5,7 @@
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result1.PNG)
 ![images](https://github.com/LiaoSteve/Trash-Dataset-and-object-detection/blob/master/result/result3.PNG)
 
-## Publications
+## cite
 If you use this dataset and weight, please cite this : 
 ```
 YU HSIEN LIAO. (2020, July 10). LiaoSteve/Trash-Dataset-and-object-detection: Trash-Dataset-and-object-detection (Version V1.0). Zenodo. http://doi.org/10.5281/zenodo.3939059
@@ -30,12 +30,4 @@ YU HSIEN LIAO. (2020, July 10). LiaoSteve/Trash-Dataset-and-object-detection: Tr
 * yolov3_classes.txt : [https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing](https://drive.google.com/file/d/1FnbYffcD7poTLxccdK0oT-5uvG0u0c5N/view?usp=sharing)
 ## My copter study
 * [https://github.com/LiaoSteve/Drone-GCS-and-AI](https://github.com/LiaoSteve/Drone-GCS-and-AI)
-## Cite
-```
-@article{yolov3,
-  title={YOLOv3: An Incremental Improvement},
-  author={Redmon, Joseph and Farhadi, Ali},
-  journal = {arXiv},
-  year={2018}
-}
-```
+
